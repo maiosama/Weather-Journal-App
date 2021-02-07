@@ -1,5 +1,5 @@
 # Weather-Journal-App
-The Second Project in the UDACITY Wed Development Professional Track
+The Second Project in the UDACITY Wed Development Professional Track.<br>
 <strong> <em> Used Softwares</em></strong><br>
 <ul>
   <li> HTML</li>
