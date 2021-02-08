@@ -7,7 +7,8 @@ The Second Project in the UDACITY Wed Development Professional Track.<br>
     <li> Java Script</li>
   </ul><br>
   <strong> App Objective:</strong><br>
-  Create an asynchronous web app that uses Web API and user data to dynamically update the UI for a Weather-Journal App.
+  Create an asynchronous web app that uses Web API and user data to dynamically update the UI for a Weather-Journal App.<br>
+  <br>
   <strong> Building process:</strong><br>
   1- Set up the server side JS by installing node applications dependincis which include (express- body-parser-cors).<br>
   2- Create an API key using the Open Weather Map https://openweathermap.org/.<br>
