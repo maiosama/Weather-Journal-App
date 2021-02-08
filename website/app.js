@@ -6,11 +6,11 @@ let d = new Date();
 let newDate = (d.getMonth()+1)+'.'+ d.getDate()+'.'+ d.getFullYear();
 //make a GET request to the weather page 
 // the URL for the weather forcast
-var appUrl = `https://api.openweathermap.org/data/2.5/weather?`;
+const appUrl = `https://api.openweathermap.org/data/2.5/weather?`;
 // the variable to get the tempreture in celsius degrees
 var celsius = 'metric';
 //genrated API for my credentials
-var apiKey = '5337a05eaa7eecb760caa7a340273c61';
+const apiKey = '5337a05eaa7eecb760caa7a340273c61';
 
 //add event listener for the entered zip code for the required city
 document.getElementById('generate').addEventListener('click', getForcast);
