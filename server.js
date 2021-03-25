@@ -20,6 +20,11 @@ app.use(cors());
 // Initialize the main project folder
 app.use(express.static('website'));
 
+//  add Configuration to be able to use env variables
+const dotenv = require('dotenv');
+dotenv.config();
+
+
 
 // Setup Server
 const port = 3000;
