@@ -10,7 +10,7 @@ const appUrl = `https://api.openweathermap.org/data/2.5/weather?`;
 // the variable to get the tempreture in celsius degrees
 var celsius = 'metric';
 //genrated API for my credentials
-const apiKey =process.env.apiKey;
+const apiKey ='b632c6d5cb35dfd906b20befaa28216f';
 
 //add event listener for the entered zip code for the required city
 document.getElementById('generate').addEventListener('click', getForcast);
